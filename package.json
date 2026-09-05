@@ -13,6 +13,7 @@
   "dependencies": {
     "chrono-node": "^2.10.1",
     "express": "^5.2.1",
+    "firebase-admin": "^14.3.0",
     "franc": "^6.2.0"
   }
 }
