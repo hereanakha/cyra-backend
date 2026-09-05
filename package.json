@@ -11,9 +11,20 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "admin": "^1.4.1",
     "chrono-node": "^2.10.1",
+    "cors": "^2.8.6",
     "express": "^5.2.1",
+    "firebase": "^12.18.0",
     "firebase-admin": "^14.3.0",
     "franc": "^6.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hereanakha/cyra-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hereanakha/cyra-backend/issues"
+  },
+  "homepage": "https://github.com/hereanakha/cyra-backend#readme"
 }
